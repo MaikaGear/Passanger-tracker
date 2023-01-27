@@ -29,6 +29,7 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 #reset-btn{
